@@ -1,3 +1,4 @@
+```javascript
 Begin Object Class=/Script/EventEditor.EventGraphNode_Precondition Name="EventGraphNode_Precondition_0"
    Begin Object Class=/Game/EditorContent/Event/Precondition/EP_SectRenown.EP_SectRenown_C Name="EP_SectRenown_C_0"
    End Object
@@ -563,3 +564,7 @@ Begin Object Class=/Script/EventEditor.EventGraphNode_ActionBase Name="EventGrap
    CustomProperties Pin (PinId=453F542C4F56FEF7E3D28FABBA9EE972,PinName="目标对象",PinType.PinCategory="Input",PinType.PinSubCategory="Public",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
    CustomProperties Pin (PinId=DA89572E4AB561348A96E78C38E0C531,PinName="行动",PinType.PinCategory="Action",PinType.PinSubCategory="Private",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
 End Object
+<script src="https://gist.github.com/mrnbrase/The-Matchless-Kungfu-English-ModGuide/blob/main/Nodes_i_Used.js"></script>
+
+
+
