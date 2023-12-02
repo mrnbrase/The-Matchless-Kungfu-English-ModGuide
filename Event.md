@@ -90,7 +90,7 @@ C. **Dialogue Event:**
 <summary>Click to expand/collapse(Copy the Code inside and past it to get the image above)</summary>
 
 
-
+```javascript
 Begin Object Class=/Script/EventEditor.EventGraphNode_Precondition Name="EventGraphNode_Precondition_4"
    Begin Object Class=/Game/EditorContent/Event/Precondition/EP_CanEventByBehaviors.EP_CanEventByBehaviors_C Name="EP_CanEventByBehaviors_C_0"
    End Object
@@ -186,7 +186,7 @@ Begin Object Class=/Script/EventEditor.EventGraphNode_Input Name="EventGraphNode
    NodeGuid=759F64EA45F343884E52C5A287CB8D14
    CustomProperties Pin (PinId=3DD94DCD45F770B5D0053A920C72D77A,PinName="输入器",Direction="EGPD_Output",PinType.PinCategory="Input",PinType.PinSubCategory="Private",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,LinkedTo=(EventGraphNode_Precondition_5 695E617646F731E49FC4A49C7587A555,),PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
 End Object
-
+```
 </details>
 
 ## English is not my first language sorry if i butcher it :).
